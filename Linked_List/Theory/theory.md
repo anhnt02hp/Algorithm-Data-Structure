@@ -30,4 +30,10 @@ typedef struct Node* listNode; //Định nghĩa 1 kdl mới tên là listNode, �
 ![Cấu trúc Linked list](image.png)
 
 
+7. Đếm xem trong linked list có bao nhiêu phần tử
+Ta chỉ cần duyệt từ đầu (di chuyển node head di chuyển qua từng phần tử trong list, đến khi node head chạy đến NULL tức là node head chạy qua tất cả các phần tử có trong linked list rồi, mỗi lần duyệt qua là tăng biến đếm lên 1 lần là được)
+![Dem xem co bn phan tu](image-2.png)
+
+
+
 
